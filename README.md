@@ -2,7 +2,7 @@
 <img src = https://capsule-render.vercel.app/api?type=waving&height=100&color=52796f&text=Régis%20Júnior%20&section=header&textBg=false&fontColor=eff6e0&fontAlign=50&animation=fadeIn&fontSize=50&descAlign=50&descAlignY=50>
  </div>
  
- - 18 yeras old 
+ - 18 years old 
 - ☕ Studying Java
 - </> Starting with HTML and CSS 
 - 💻 Pucrs - software engineer student
