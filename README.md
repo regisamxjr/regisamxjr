@@ -4,7 +4,7 @@
  
  - 18 years old 
 - ☕ Studying Java
-- </> Starting with HTML and CSS 
+- </> Starting with HTML, CSS and JavaScript 
 - 🎓 Pucrs - software engineer student
 
 <div align="center">  
