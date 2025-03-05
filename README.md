@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>19 years old | ☕ Studying Java | </> Starting with HTML, CSS and JavaScript</h3>
+  <h3>19 years old 
   <h4>🎓 PUCRS - Software Engineering Student</h4>
 </div>
 
