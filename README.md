@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF6F00&text=Régis%20Júnior&section=header&fontColor=696969&fontAlign=50&animation=fadeIn&fontSize=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF6F00&text=Régis%20Júnior&section=header&fontColor=ffffff&fontAlign=50&animation=fadeIn&fontSize=50" alt="Header" />
 </div>
 
 <div align="center">
