@@ -4,8 +4,15 @@
 
 <div align="center">
   <h3>19 years old</h3>
-  <h4>🎓 PUCRS - Software Engineering Student</h4>
-  <h4>🎓 Uppsala University - Computer Science Student</h4>
+  <h4> 🇧🇷 PUCRS - Software Engineering Student</h4>
+  <h4> 🇸🇪 Uppsala University - Computer Science Student</h4>
+</div>
+
+<div align="center">
+  <h3>About Me</h3>
+  <p style="max-width1:100px;">
+    I am a technology student driven by the ambition to explore the world. My goal is to study and work in diverse cultural environments, believing that cross-cultural experiences are key to gaining a broader global perspective and professional maturity.
+  </p>
 </div>
 
 <h2 align="center">Frontend</h2>
@@ -18,7 +25,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 
----
+
 
 <h2 align="center"> Backend</h2>
 
@@ -28,8 +35,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </div>
 
----
-
 <h2 align="center">Databases</h2>
 
 <div align="center">
@@ -38,9 +43,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
----
-
-<h2 align="center">🛠 Tools</h2>
+<h2 align="center">Tools</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
