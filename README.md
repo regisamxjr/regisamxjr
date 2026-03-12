@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>19 years old</h3>
+  <h3>20 years old</h3>
   <h4> 🇧🇷 PUCRS - Software Engineering Student</h4>
   <h4> 🇸🇪 Uppsala University - Computer Science Student</h4>
 </div>
